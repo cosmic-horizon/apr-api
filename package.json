@@ -1,0 +1,16 @@
+{
+  "name": "qwoyn-apr",
+  "version": "1.0.0",
+  "description": "calculates the staking apr for Qwoyn Network and displays it in an api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "express": "^4.18.2",
+    "node-cron": "^3.0.3"
+  }
+}
